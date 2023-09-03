@@ -1,6 +1,7 @@
+Test d'une revue de code en binôme
 # lab2-paniervert-interface
 
-Projet Vue.js du laboratoire 2
+Projet Vue.js du laboratoire version 2
 
 ## Recommended IDE Setup
 
