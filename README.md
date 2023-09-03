@@ -1,4 +1,4 @@
-Test d'une revue de code en binôme
+# Test d'une revue de code en binôme
 
 Projet Vue.js du laboratoire version 2
 
