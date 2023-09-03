@@ -1,5 +1,4 @@
-Test d'une revue de code en binôme
-# lab2-paniervert-interface
+# Test d'une revue de code en binôme
 
 Projet Vue.js du laboratoire version 2
 
