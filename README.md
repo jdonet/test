@@ -1,6 +1,6 @@
 # Test d'une revue de code en binôme
 
-Projet Vue.js du laboratoire version 2
+Projet Vue.js du laboratoire version 2.1
 
 ## Recommended IDE Setup
 
