@@ -13,7 +13,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm installd
+npm installdc
 ```
 
 ### Compile and Hot-Reload for Development
