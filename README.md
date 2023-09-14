@@ -9,7 +9,7 @@ Projet Vue.js du laboratoire version 2
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
-
+test
 ## Project Setup
 
 ```sh
